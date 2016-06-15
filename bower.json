@@ -1,0 +1,8 @@
+{
+  "name": "fcc-force-graph",
+  "private": true,
+  "dependencies": {
+    "modernizr": "~2.8.1",
+    "d3": "^3.5.17"
+  }
+}

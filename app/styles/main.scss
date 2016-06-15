@@ -1,0 +1,17 @@
+// bower:scss
+// endbower
+
+@import 'base';
+
+.chart {
+  svg {
+    background-color: teal;
+    border: 3px solid #0f0202;
+    display: block;
+    max-width: 80vw;
+    max-height: 80vh;
+    width: auto;
+    height: auto;
+    margin: auto;
+  }
+}
